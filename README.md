@@ -1,6 +1,6 @@
 # Best Movers and Packers Article Website
 
-This project contains a simple HTML webpage that provides comprehensive <a href=https://www.google.com/maps?cid=10971409335094726300>Best Movers and Packers</a> tips and includes a call to action for Best Movers and Packers in Abu Dhabi from Capital City Movers Abu Dhabi.
+This project contains a simple HTML webpage that provides comprehensive <a href=https://maps.app.goo.gl/7mE44dY1HT7FMK5z7>Best Movers and Packers</a> tips and includes a call to action for Best Movers and Packers in Abu Dhabi from Capital City Movers Abu Dhabi.
 
 ## Table of Contents
 
